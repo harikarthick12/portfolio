@@ -170,15 +170,24 @@ export default function App() {
         </section>
 
         {/* About Section */}
-        <section id="about" className="mb-16">
-          <h2 className="text-2xl font-semibold mb-4">About me</h2>
-          <p className="text-sm opacity-85">
-            I love building things that feel futuristic — from AI chatbots to
-            virtual systems. Every project I make starts as an idea and ends as
-            something that actually works. I focus on performance, accessibility
-            and delightful interactions.
-          </p>
-        </section>
+       <section id="about" className="mb-16">
+  <h2 className="text-2xl font-semibold mb-4">About Me</h2>
+  <div className="space-y-3 text-sm opacity-85 leading-relaxed">
+    <p>
+      I’m a developer who loves building things that <span className="text-blue-400">feel ahead of their time</span>.
+      From AI-driven interfaces to smooth, animated user experiences — I focus on making technology feel alive.
+    </p>
+    <p>
+      My goal is to blend <span className="text-blue-400">creativity with clean engineering</span>, turning ideas into real,
+      working systems that inspire.
+    </p>
+    <p>
+      Currently exploring <span className="text-blue-400">AI automation, virtual interfaces</span>, and new ways to make
+      the web more interactive and human.
+    </p>
+  </div>
+</section>
+
 
         {/* Projects Section */}
         <section id="projects" className="mb-16">
