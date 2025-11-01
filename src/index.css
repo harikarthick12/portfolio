@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+html, body, #root { height: 100%; }
+
+/* small helpers */
+.opacity-85 { opacity: 0.85; }
+.glass-shadow { backdrop-filter: blur(6px); }
