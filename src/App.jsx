@@ -222,7 +222,7 @@ export default function App() {
 
               {/* small floating badge */}
               <div className="absolute -right-8 -top-8 w-32 h-16 bg-gradient-to-r from-[#60a5fa]/20 to-[#7c3aed]/20 rounded-xl border border-white/6 flex items-center justify-center text-xs opacity-90">
-                Futuristic UI
+                Futuristic UI 
               </div>
             </div>
           </div>
