@@ -303,7 +303,7 @@ export default function App() {
         </section>
 
         <footer className="py-10 text-center opacity-80">
-          Built with ❤️ using React + Tailwind · © {new Date().getFullYear()} Hari Karthick
+          Built with ❤️ using React © {new Date().getFullYear()} Hari Karthick
         </footer>
       </main>
 
