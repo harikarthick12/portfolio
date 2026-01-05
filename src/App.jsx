@@ -91,6 +91,11 @@ export default function App() {
       description: "File encryption and decryption app built with React + Node.",
       link: "https://filecrypto.vercel.app/",
     },
+     {
+      title: "LocoTrack",
+      description: "LOCOTrack is a real-time bus tracking web application that helps users locate buses instantly using live GPS data",
+      link: "https://locotrack.onrender.com/",
+    },
   ];
 
   // hover tilt for cards (native DOM transform)
