@@ -285,7 +285,7 @@ export default function App() {
                       <p className="text-gray-300 mt-2">{p.description}</p>
                       <div className="mt-4 flex gap-3">
                         <a href={p.link} target="_blank" rel="noreferrer" className="px-4 py-2 rounded-md bg-cyan-400 text-black">Live</a>
-                        <a href={p.link} target="_blank" rel="noreferrer" className="px-4 py-2 rounded-md border border-white/10">Open</a>
+                        {/* <a href={p.link} target="_blank" rel="noreferrer" className="px-4 py-2 rounded-md border border-white/10">Open</a> */}
                       </div>
                     </div>
                   </div>
