@@ -2,7 +2,6 @@
 @tailwind components;
 @tailwind utilities;
 
-<<<<<<< HEAD
 @layer base {
     :root {
         --primary: #00f0ff;
@@ -84,10 +83,12 @@
     background: linear-gradient(to bottom, #22d3ee, #8b5cf6);
     border-radius: 10px;
 }
-=======
-html, body, #root { height: 100%; }
 
 /* small helpers */
-.opacity-85 { opacity: 0.85; }
-.glass-shadow { backdrop-filter: blur(6px); }
->>>>>>> 1394745a22f8ba4749c8d82010240899916cdb1d
+.opacity-85 {
+    opacity: 0.85;
+}
+
+.glass-shadow {
+    backdrop-filter: blur(6px);
+}
