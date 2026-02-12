@@ -3,4 +3,8 @@
   publish = "dist"
 
 [build.environment]
+<<<<<<< HEAD
   NODE_VERSION = "22"
+=======
+  NODE_VERSION = "18"
+>>>>>>> 1394745a22f8ba4749c8d82010240899916cdb1d

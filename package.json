@@ -9,7 +9,10 @@
   },
   "dependencies": {
     "@vitejs/plugin-react": "^5.1.0",
+<<<<<<< HEAD
     "firebase": "^12.9.0",
+=======
+>>>>>>> 1394745a22f8ba4749c8d82010240899916cdb1d
     "framer-motion": "^10.18.0",
     "lenis": "^1.3.13",
     "react": "^18.3.1",
