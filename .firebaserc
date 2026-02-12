@@ -1,0 +1,14 @@
+{
+  "projects": {
+    "default": "harikarthick-70eed"
+  },
+  "targets": {
+    "harikarthick-70eed": {
+      "hosting": {
+        "harikarthickportflio": [
+          "harikarthickportflio"
+        ]
+      }
+    }
+  }
+}
